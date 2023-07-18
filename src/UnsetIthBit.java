@@ -2,7 +2,7 @@ import java.util.Scanner;
 /*
 Apporach
 1.check set bit (to check ith bit is set or not)
-2.xor if same number(A,B) is set
+2.xor if same number(A,B) make unset
  */
 public class UnsetIthBit {
     public static void main(String[] args) {
